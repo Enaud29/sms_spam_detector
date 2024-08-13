@@ -11,7 +11,7 @@ Instructions:
 	•	Train the SVC model using the provided data.
 	•	Create a Gradio app to host the application.
 	•	Enable users to test text messages through the app.
-	•	Provide feedback to users, indicating whether the text is classified as spam or not based on the model’s performance.​⬤.
+	•	Provide feedback to users, indicating whether the text is classified as spam or not based on the model’s performance.​
 
 Part 1: Create the sms_classification function in gradio_sms_text_classification.ipynb:
 
